@@ -71,7 +71,7 @@ button {
   font-weight: 800;
   color: rgb(230, 230, 230);
   position: absolute;
-  bottom: 4rem;
+  bottom: 10rem;
   animation: fade 1500ms forwards;
 }
 
